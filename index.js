@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>IN SANSKRIT</h2>
-   <h1>use Array.push()<br>
-    Array.pop()<br>
-    Array.reverse()
-    <br>
-   
-       
-   </h1> 
-</body>
-</html>
-<script>
+
+
      let arr1 = new Array("1", "2", "3");
      
   console.log("arr1:", arr1);
@@ -126,4 +108,4 @@ console.log(res);
 
 
 
-</script>
+
